@@ -165,13 +165,13 @@ export default function Projects() {
                       </Button>
                     ) : (
                       <Button size="sm" disabled>
-                        <a
+                        {/* <a
                           href={project.live}
                           className="flex items-center gap-2"
-                        >
+                        > */}
                           <ExternalLink className="w-4 h-4" />
                           Live Demo
-                        </a>
+                        {/* </a> */}
                       </Button>
                     )}
                   </div>
