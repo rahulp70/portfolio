@@ -164,7 +164,7 @@ export default function Projects() {
                         Confidential
                       </Button>
                     ) : (
-                      <Button size="sm" asChild>
+                      <Button disable size="sm" asChild>
                         <a
                           href={project.live}
                           className="flex items-center gap-2"
