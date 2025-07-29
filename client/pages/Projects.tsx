@@ -36,7 +36,7 @@ export default function Projects() {
         "Developed a full-stack healthcare platform using MongoDB, Express, React, and Node.js with JWT authentication. Implemented role-based dashboards for doctors, pharmacies, and patients with real-time prescription tracking, medicine inventory management, and patient history modules.",
       tech: ["MongoDB", "Express", "React", "Node.js", "Mongoose"],
       github:
-        "https://github.com/rahulp70/Medicine-Exchange-Transparency-Application",
+        "https://medtech.lovable.app",
       live: "#",
       featured: true,
     },
