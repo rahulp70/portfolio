@@ -164,7 +164,7 @@ export default function Projects() {
                         Confidential
                       </Button>
                     ) : (
-                      <Button size="sm" disabled>
+                      <Button size="sm" >
                         <ExternalLink className="w-4 h-4 mr-2" />
                         Live Demo
                       </Button>
